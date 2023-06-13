@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+    font-family: 'PT Sans', Helvetica, sans-serif;
+  }
+
+body {
+    padding: 0px 200px;
+}
+
+h1 {
+    text-align: left;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: 500;
+    font-family: 'PT Sans', Helvetica, sans-serif;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'PT Sans', Helvetica, sans-serif;
+}
+
+/* Colors */
+
+.colors {
+    border: 3px solid gray;
+    padding: 0px 0px 10px 8px;
+    margin: 0px 0px 20px 0px;
+}
+
+.MT {
+    color: white;
+    height: 200px;
+    width: 400px;
+    background-color: mediumturquoise;
+    display: inline-block;
+    text-align: center;
+    padding: 60px 0;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+#PT {
+    background-color: paleturquoise;
+}
+
+#Thistle {
+    background-color: thistle;
+}
+
+#Khaki {
+    background-color: khaki;
+}
+
+#text-gray p {
+    color: dimgray;
+}
+
+/* Fonts */
+
+.fonts {
+    border: 3px solid gray;
+    padding: 0px 0px 10px 8px;
+    margin: 0px 0px 20px 0px;
+}
+
+
+.font span {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.font {
+    display: inline-block;
+    padding: 20px 100px 30px 0px;
+}
+
+/* Made a class of "strong" inside the <p> elements to see if it
+would bold - needed to download Google Fonts in bold 
+
+.strong {
+    font-weight: 500;
+}
+
+*/
+
+/* Text Styles */
+
+.text-styles {
+    border: 3px solid gray;
+    padding: 0px 0px 10px 8px;
+    margin: 0px 0px 20px 0px;
+}
+
